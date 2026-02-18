@@ -1,0 +1,16 @@
+class test
+{
+   public static void main(String args[])
+   {
+	         System.out.println("Statement 1");
+             try{
+			     System.out.println(10/2);
+			 }
+			 catch(Exception e){
+				 System.out.println(e);
+				 System.out.println(10/2);
+			 }
+			 System.out.println("Statement 2");
+			 System.out.println("Statement 3");
+   }
+}

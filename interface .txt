@@ -1,0 +1,16 @@
+//interface- contract or rule book
+//syntax of interface- interface interfacename{}
+// yesko bhitra sabai abstract method bata huncha
+//abstract- which doesn't have the body
+
+interface lbef
+{
+	int a=10;
+	void walk();  // abstract method
+	void sleep(); // abstract lekhnu pardaina as by default public and abstract thapincha
+}
+
+// interface of class and interface implements interf-interf extends
+
+
+	
