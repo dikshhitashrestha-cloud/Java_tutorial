@@ -4,7 +4,7 @@ class test
    {
 	         System.out.println("Statement 1");
              try{
-			     System.out.println(10/2);
+			     System.out.println(10/0);
 			 }
 			 catch(Exception e){
 				 System.out.println(e);
